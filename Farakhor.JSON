@@ -4,7 +4,7 @@
       "NumberOfTheDay": "۱",
       "shortTitle": "جشن نوروز",
       "title": "جشن نوروز/جشن سال نو",
-      "modalStatus": false,
+      "modalStatus": true,
       "text": "جشن نوروز و آغاز سال نو",
       "imagesLink": "",
       "extraLinks": ["", "", "", "", "", ""]
@@ -13,7 +13,7 @@
       "NumberOfTheDay": "۲",
       "shortTitle": "عیدنوروز",
       "title": "عیدنوروز",
-      "modalStatus": false,
+      "modalStatus": true,
       "text": "جشن عید نوروز",
       "imagesLink": "",
       "extraLinks": ["", "", "", "", "", ""]
