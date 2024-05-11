@@ -12,30 +12,30 @@
     },
     "2": {
       "NumberOfTheDay": "۲",
-      "shortTitle": "عیدنوروز",
-      "title": "عیدنوروز",
+      "shortTitle": "جشن نوروز",
+      "title": "جشننوروز",
       "modalStatus": true,
-      "text": "جشن عید نوروز",
+      "text": " جشن نوروز",
        "modalImagesLink": "",   
       "logo": "",
       "extraLinks": ["", "", "", "", "", ""]
     },
     "3": {
       "NumberOfTheDay": "۳",
-      "shortTitle": "عیدنوروز",
-      "title": "عیدنوروز",
+      "shortTitle": "جشن نوروز",
+      "title": "جشن نوروز",
       "modalStatus": false,
-      "text": "جشن عید نوروز",
+      "text": " جشن نوروز",
        "modalImagesLink": "",      
       "logo": "",
       "extraLinks": ["", "", "", "", "", ""]
     },
     "4": {
       "NumberOfTheDay": "۴",
-      "shortTitle": "عیدنوروز",
-      "title": "عیدنوروز",
+      "shortTitle": "جشن نوروز",
+      "title": "جشن نوروز",
       "modalStatus": false,
-      "text": "جشن عید نوروز",
+      "text": " جشن نوروز",
        "modalImagesLink": "",   
       "logo": "",
       "extraLinks": ["", "", "", "", "", ""]
@@ -106,7 +106,7 @@
     },
     "25": {
       "NumberOfTheDay": "۲۵",
-      "shortTitle": "روز بزرگداشت عطار نیشابوری",
+      "shortTitle": "روز بزرگداشت عطار",
       "title": "روز بزرگداشت عطار نیشابوری",
       "modalStatus": false,
       "text": "یادبود عطار نیشابوری",
@@ -162,7 +162,7 @@
     },
     "10": {
       "NumberOfTheDay": "۱۰",
-      "shortTitle": "جشن چهلم نوروز",
+      "shortTitle": " جشن چهلم نوروز",
       "title": "جشن چهلم نوروز؛ روز ملی خلیج فارس",
       "modalStatus": false,
       "text": "جشن چهلم نوروز و تقدیر از خلیج فارس",
